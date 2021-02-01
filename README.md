@@ -11,7 +11,7 @@ To get this to run in windows 10
 
 4. install pygame with: python3 -m pip install -U pygame --user
 
-if all these commands have completed successfully then you should be able to run the game with python3 ./StarWars.py
+if all these commands have completed successfully then you should be able to run the game with python3 ./tuxracer.py
 
 
 
